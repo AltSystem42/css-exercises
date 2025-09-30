@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 72, 133);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#second {
+    color:#0400ffd5;
+    font-size: 36px;
+}
+.afs {
+    font-size: 24px;
+}
+#fourth {
+    background-color: hsl(115, 100%, 50%);
+    font-weight:bold;
+}
